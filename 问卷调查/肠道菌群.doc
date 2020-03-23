@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application 
+			progid="Word.Document"
+		?><w:wordDocument xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:o="urn:schemas-microsoft-com:office:office">
+<o:DocumentProperties>
+<o:Title>肠道菌群</o:Title>
+</o:DocumentProperties>
+<w:styles>
+<w:versionOfBuiltInStylenames w:val="4"/>
+<w:latentStyles w:defLockedState="off" w:latentStyleCount="156"/>
+<w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+<w:name w:val="Normal"/>
+<w:rsid w:val="00831C9D"/>
+<w:rPr>
+<wx:font wx:val="Times New Roman"/>
+<w:sz w:val="24"/>
+<w:sz-cs w:val="24"/>
+<w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading1">
+<w:name w:val="heading 1"/>
+<wx:uiName wx:val="Heading 1"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:rsid w:val="00BA7540"/>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+<w:keepNext/>
+<w:spacing w:before="240" w:after="60"/>
+<w:outlineLvl w:val="0"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+<wx:font wx:val="Arial"/>
+<w:b/>
+<w:b-cs/>
+<w:kern w:val="32"/>
+<w:sz w:val="32"/>
+<w:sz-cs w:val="32"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading2">
+<w:name w:val="heading 2"/>
+<wx:uiName wx:val="Heading 2"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:rsid w:val="00BA7540"/>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+<w:keepNext/>
+<w:spacing w:before="240" w:after="60"/>
+<w:outlineLvl w:val="1"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+<wx:font wx:val="Arial"/>
+<w:b/>
+<w:b-cs/>
+<w:i/>
+<w:i-cs/>
+<w:sz w:val="28"/>
+<w:sz-cs w:val="28"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading3">
+<w:name w:val="heading 3"/>
+<wx:uiName wx:val="Heading 3"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:rsid w:val="00BA7540"/>
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+<w:keepNext/>
+<w:spacing w:before="240" w:after="60"/>
+<w:outlineLvl w:val="2"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+<wx:font wx:val="Arial"/>
+<w:b/>
+<w:b-cs/>
+<w:sz w:val="26"/>
+<w:sz-cs w:val="26"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading4">
+<w:name w:val="heading 4"/>
+<wx:uiName wx:val="Heading 4"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:rsid w:val="00BA7540"/>
+<w:pPr>
+<w:pStyle w:val="Heading4"/>
+<w:keepNext/>
+<w:spacing w:before="240" w:after="60"/>
+<w:outlineLvl w:val="3"/>
+</w:pPr>
+<w:rPr>
+<wx:font wx:val="Times New Roman"/>
+<w:b/>
+<w:b-cs/>
+<w:sz w:val="28"/>
+<w:sz-cs w:val="28"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading5">
+<w:name w:val="heading 5"/>
+<wx:uiName wx:val="Heading 5"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:rsid w:val="00BA7540"/>
+<w:pPr>
+<w:pStyle w:val="Heading5"/>
+<w:spacing w:before="240" w:after="60"/>
+<w:outlineLvl w:val="4"/>
+</w:pPr>
+<w:rPr>
+<wx:font wx:val="Times New Roman"/>
+<w:b/>
+<w:b-cs/>
+<w:i/>
+<w:i-cs/>
+<w:sz w:val="26"/>
+<w:sz-cs w:val="26"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading6">
+<w:name w:val="heading 6"/>
+<wx:uiName wx:val="Heading 6"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:rsid w:val="00BA7540"/>
+<w:pPr>
+<w:pStyle w:val="Heading6"/>
+<w:spacing w:before="240" w:after="60"/>
+<w:outlineLvl w:val="5"/>
+</w:pPr>
+<w:rPr>
+<wx:font wx:val="Times New Roman"/>
+<w:b/>
+<w:b-cs/>
+<w:sz w:val="22"/>
+<w:sz-cs w:val="22"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading7">
+<w:name w:val="heading 7"/>
+<wx:uiName wx:val="Heading 7"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:rsid w:val="00BA7540"/>
+<w:pPr>
+<w:pStyle w:val="Heading7"/>
+<w:spacing w:before="240" w:after="60"/>
+<w:outlineLvl w:val="6"/>
+</w:pPr>
+<w:rPr>
+<wx:font wx:val="Times New Roman"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading8">
+<w:name w:val="heading 8"/>
+<wx:uiName wx:val="Heading 8"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:rsid w:val="00BA7540"/>
+<w:pPr>
+<w:pStyle w:val="Heading8"/>
+<w:spacing w:before="240" w:after="60"/>
+<w:outlineLvl w:val="7"/>
+</w:pPr>
+<w:rPr>
+<wx:font wx:val="Times New Roman"/>
+<w:i/>
+<w:i-cs/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading9">
+<w:name w:val="heading 9"/>
+<wx:uiName wx:val="Heading 9"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:rsid w:val="00BA7540"/>
+<w:pPr>
+<w:pStyle w:val="Heading9"/>
+<w:spacing w:before="240" w:after="60"/>
+<w:outlineLvl w:val="8"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+<wx:font wx:val="Arial"/>
+<w:sz w:val="22"/>
+<w:sz-cs w:val="22"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont">
+<w:name w:val="Default Paragraph Font"/>
+<w:semiHidden/>
+</w:style>
+<w:style w:type="table" w:default="on" w:styleId="TableNormal">
+<w:name w:val="Normal Table"/>
+<wx:uiName wx:val="Table Normal"/>
+<w:semiHidden/>
+<w:rPr>
+<wx:font wx:val="Times New Roman"/>
+</w:rPr>
+<w:tblPr>
+<w:tblInd w:w="0" w:type="dxa"/>
+<w:tblCellMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:left w:w="108" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:right w:w="108" w:type="dxa"/>
+</w:tblCellMar>
+</w:tblPr>
+</w:style>
+<w:style w:type="list" w:default="on" w:styleId="NoList">
+<w:name w:val="No List"/>
+<w:semiHidden/>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Title">
+<w:name w:val="Title"/>
+<w:basedOn w:val="Normal"/>
+<w:rsid w:val="00BA7540"/>
+<w:pPr>
+<w:pStyle w:val="Title"/>
+<w:spacing w:before="240" w:after="60"/>
+<w:jc w:val="center"/>
+<w:outlineLvl w:val="0"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+<wx:font wx:val="Arial"/>
+<w:b/>
+<w:b-cs/>
+<w:kern w:val="28"/>
+<w:sz w:val="32"/>
+<w:sz-cs w:val="32"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="BodyText">
+<w:name w:val="Body Text"/>
+<w:basedOn w:val="Normal"/>
+<w:rsid w:val="00BA7540"/>
+<w:pPr>
+<w:pStyle w:val="BodyText"/>
+<w:spacing w:after="120"/>
+</w:pPr>
+<w:rPr>
+<wx:font wx:val="Times New Roman"/>
+</w:rPr>
+</w:style>
+</w:styles>
+<w:body>
+<wx:sect>
+
+
+    
+
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Title"/>
+</w:pPr>
+<w:r>
+<w:t>肠道菌群</w:t>
+</w:r>
+</w:p>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t>背景</w:t>
+</w:r>
+</w:p>
+</wx:sub-section>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t>方法</w:t>
+</w:r>
+</w:p>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r>
+<w:t>问卷调查</w:t>
+</w:r>
+</w:p>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>纳入标准</w:t>
+</w:r>
+</w:p>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading4"/>
+</w:pPr>
+<w:r>
+<w:t>纳入标准</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+</w:pPr>
+<w:r>
+<w:t>纳入标准：年龄３０～６０岁，受试者之间无 亲缘关系。ＩＧＲ 包括２种情况，ＩＦＧ：糖负荷后２ｈ血 糖＜７．８ ｍｍｏｌ／Ｌ，空 腹 血 糖 值 为 ６．１ ｍｍｏｌ／Ｌ～７．０ ｍｍｏｌ／Ｌ。ＩＧＴ：空腹血糖正常＜７．０ｍｍｏｌ／Ｌ，糖负荷 后２ｈ血糖 ７．８ ｍｍｏｌ／Ｌ～１１．１ ｍｍｏｌ／Ｌ。根据诊断 标准排除１型糖尿病和特殊类型糖尿病及怀孕和哺乳 期的糖尿病。（糖尿病研究）</w:t>
+</w:r>
+</w:p>
+</wx:sub-section>
+</wx:sub-section>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>排除标准</w:t>
+</w:r>
+</w:p>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading4"/>
+</w:pPr>
+<w:r>
+<w:t>排出标准</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+</w:pPr>
+<w:r>
+<w:t>排出标准：① 取样前 １ 月内使 用过抗生素、益生 元、益生菌或者合生元等制品；②近１月有过腹泻、痢 疾等胃肠道疾病史；③ 排除 ＢＭＩ＜１８．５０、妊娠、哺乳 期妇女；④近期有感染、手术史、急性心脑血管疾病史； ⑤残疾，肥胖，癌症及有明显肝肾功能损害者；⑥有精 神病史：⑦有长期服用二甲双胍 者、激 素 或 滥 用 药 物 者；⑧有其他影响血糖的疾病史，如甲亢、Ｃｕｓｈｉｎｇ综 合征等；⑨妊娠糖尿病者；⑩养宠物者。</w:t>
+</w:r>
+</w:p>
+</wx:sub-section>
+</wx:sub-section>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>生化指标</w:t>
+</w:r>
+</w:p>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading4"/>
+</w:pPr>
+<w:r>
+<w:t>血生化指标的测定</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+</w:pPr>
+<w:r>
+<w:t>血生化指标的测定　采集受试者静脉血，采用全 自动生化分析仪用终点法测定空腹血糖（ＦＢＧ），总胆 固醇（ｔｏｔａｌ　ｃｈｏｌｅｓｔｅｒｏｌ，ＴＣ）、甘油三酯（ｔｒｉｇｌｙｃｅｒｉｄｅｓ， ＴＧ）、高 密 度 脂 蛋 白 胆 固 醇 （ｈｉｇｈ　ｄｅｎｓｉｔｙ　ｌｉｐｏｐｒｏｔｅｉｎ ｔｏｔａｌ　ｃｈｏｌｅｓｔｅｒｏｌ，ＨＤＬ－Ｃ）及 低 密 度 脂 蛋 白 胆 固 醇 （ｌｏｗ　ｄｅｎｓｉｔｙ　ｌｉｐｏｐｒｏｔｅｉｎ　ｃｈｏｌｅｓｔｅｒｏｌ，ＬＤＬ－Ｃ）。</w:t>
+</w:r>
+</w:p>
+</wx:sub-section>
+</wx:sub-section>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t/>
+</w:r>
+</w:p>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading4"/>
+</w:pPr>
+<w:r>
+<w:t>问卷调查　</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+</w:pPr>
+<w:r>
+<w:t>问卷调查　设计问卷，对受试者进行基线资料调 查。测量身高、体重、腰围、臀围及血压，并计算体质指 数（ｂｏｄｙ　ｍａｓｓ　ｉｎｄｅｘ，ＢＭＩ）和腰臀比（ｗａｉｓｔ／ｈｉｐ　ｒａｔｉｏ， ＷＨＲ）。计 算 公 式：ＢＭＩ＝ 体 重 （ｋｇ）／身 高 （ｍ ２ ）； ＷＨＲ＝腰围（ｃｍ）／臀围（ｃｍ）。</w:t>
+</w:r>
+</w:p>
+</wx:sub-section>
+</wx:sub-section>
+</wx:sub-section>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r>
+<w:t>高通量测序</w:t>
+</w:r>
+</w:p>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>测序引物</w:t>
+</w:r>
+</w:p>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading4"/>
+</w:pPr>
+<w:r>
+<w:t>高通量测序 PCＲ 扩增细菌 16S rＲNA 的 V3 ～ V4 区域，上 下 游 引 物 为 338F: 5'-ACTCCTACGGGAGGCAGCAG-3'，806Ｒ: 5'-ACTCCTACGGGAGGCAGCAG-3'。</w:t>
+</w:r>
+</w:p>
+</wx:sub-section>
+</wx:sub-section>
+</wx:sub-section>
+</wx:sub-section>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t>结果</w:t>
+</w:r>
+</w:p>
+</wx:sub-section>
+<wx:sub-section>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t>讨论</w:t>
+</w:r>
+</w:p>
+</wx:sub-section>
+</wx:sub-section>
+</wx:sect>
+</w:body>
+</w:wordDocument>
